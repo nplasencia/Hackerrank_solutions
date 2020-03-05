@@ -5,7 +5,12 @@
     <br>Solutions to HackerRank problems using Java.
 </p>
 
+Trying to update it daily. If it is helpful please press a star.
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/nplasencia/Hackerrank_solutions.svg)](https://github.com/nplasencia/Hackerrank_solutions) 
+[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/nplasencia/Hackerrank_solutions.svg)](https://github.com/nplasencia/Hackerrank_solutions)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/nplasencia/Hackerrank_solutions.svg)](https://github.com/nplasencia/Hackerrank_solutions) 
+[![GitHub stars](https://img.shields.io/github/stars/nplasencia/Hackerrank_solutions.svg)](https://github.com/nplasencia/Hackerrank_solutions)
 
 # Java
 
