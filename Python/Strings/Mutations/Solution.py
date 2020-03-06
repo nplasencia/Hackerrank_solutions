@@ -1,0 +1,20 @@
+"""
+You are given an immutable string, and you want to make changes to it.
+"""
+
+
+def mutate_string(string, position, character):
+
+    return string[:position] + character + string[position+1:]
+
+    # Second way
+    # new_string = list(string)
+    # new_string[position] = character
+    # return ''.join(new_string)
+
+
+if __name__ == '__main__':
+    s = input()
+    i, c = input().split()
+    s_new = mutate_string(s, int(i), c)
+    print(s_new)
