@@ -8,7 +8,6 @@
 Trying to update it daily. If it is helpful please press a star.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/nplasencia/Hackerrank_solutions.svg)](https://github.com/nplasencia/Hackerrank_solutions) 
-[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/nplasencia/Hackerrank_solutions.svg)](https://github.com/nplasencia/Hackerrank_solutions)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/nplasencia/Hackerrank_solutions.svg)](https://github.com/nplasencia/Hackerrank_solutions) 
 [![GitHub stars](https://img.shields.io/github/stars/nplasencia/Hackerrank_solutions.svg)](https://github.com/nplasencia/Hackerrank_solutions)
 
@@ -52,9 +51,9 @@ Trying to update it daily. If it is helpful please press a star.
 # Interview Preparation Kit
 
 |          Subdomain          |                                                          Challenge                                                         |     Java Solution     |      Python Solution     |
-|:---------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:----------------:|
-| Warm-up Challenges | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) |  | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Interview%20Preparation%20Kit/Warm-up%20Challenges/Sock%20Merchant/Solution.py) |
-| Warm-up Challenges | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) |  | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Interview%20Preparation%20Kit/Warm-up%20Challenges/Counting%20Valleys/Solution.py) |
-| Warm-up Challenges | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) |  | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Interview%20Preparation%20Kit/Warm-up%20Challenges/Jumping%20on%20the%20Clouds/Solution.py) |
-| Warm-up Challenges | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) |  | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Interview%20Preparation%20Kit/Warm-up%20Challenges/Repeated%20String/Solution.py) |
+|:---------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:----------------:|:----------------:|
+| Warm-up Challenges | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | - | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Interview%20Preparation%20Kit/Warm-up%20Challenges/Sock%20Merchant/Solution.py) |
+| Warm-up Challenges | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | - | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Interview%20Preparation%20Kit/Warm-up%20Challenges/Counting%20Valleys/Solution.py) |
+| Warm-up Challenges | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | - | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Interview%20Preparation%20Kit/Warm-up%20Challenges/Jumping%20on%20the%20Clouds/Solution.py) |
+| Warm-up Challenges | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | - | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Interview%20Preparation%20Kit/Warm-up%20Challenges/Repeated%20String/Solution.py) |
 
