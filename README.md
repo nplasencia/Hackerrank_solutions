@@ -2,7 +2,7 @@
     <a href="https://www.hackerrank.com/">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <br>Solutions to HackerRank problems using Java.
+    <br>Solutions to HackerRank problems using Java and Python.
 </p>
 
 Trying to update it daily. If it is helpful please press a star.
@@ -48,3 +48,13 @@ Trying to update it daily. If it is helpful please press a star.
 | Object Oriented Programming | [Java Method Overriding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) | [Solution.java](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Java/Object%20Oriented%20Programming/Java%20Method%20Overriding%202%20(Super%20Keyword)%0A%0A/Solution.java) |
 | Object Oriented Programming | [Java Instanceof keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem) | [Solution.java](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Java/Object%20Oriented%20Programming/Java%20Instanceof%20keyword%0A%0A/Solution.java) |
 | Object Oriented Programming | [Java Iterator](https://www.hackerrank.com/challenges/java-iterator/problem) | [Solution.java](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Java/Object%20Oriented%20Programming/Java%20Iterator/Solution.java) |
+
+# Interview Preparation Kit
+
+|          Subdomain          |                                                          Challenge                                                         |     Java Solution     |      Python Solution     |
+|:---------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:----------------:|
+| Warm-up Challenges | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) |  | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Interview%20Preparation%20Kit/Warm-up%20Challenges/Sock%20Merchant/Solution.py) |
+| Warm-up Challenges | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) |  | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Interview%20Preparation%20Kit/Warm-up%20Challenges/Counting%20Valleys/Solution.py) |
+| Warm-up Challenges | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) |  | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Interview%20Preparation%20Kit/Warm-up%20Challenges/Jumping%20on%20the%20Clouds/Solution.py) |
+| Warm-up Challenges | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) |  | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Interview%20Preparation%20Kit/Warm-up%20Challenges/Repeated%20String/Solution.py) |
+
