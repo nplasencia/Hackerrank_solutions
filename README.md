@@ -11,9 +11,18 @@ Trying to update it daily. If it is helpful please press a star.
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/nplasencia/Hackerrank_solutions.svg)](https://github.com/nplasencia/Hackerrank_solutions) 
 [![GitHub stars](https://img.shields.io/github/stars/nplasencia/Hackerrank_solutions.svg)](https://github.com/nplasencia/Hackerrank_solutions)
 
+* [10 Days of Statistics](#10-days-of-statistics)
 * [Interview Preparation Kit](#interview-preparation-kit)
 * [Java](#java)
 * [Python](#python)
+
+# 10 Days of Statistics
+
+|          Day          |                                                          Challenge                                                         |     Java Solution     |      Python Solution     |
+|:---------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:----------------:|:----------------:|
+| 0 | [Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | - | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/10%20days%20of%20Statistics/Day%200:%20Mean%2C%20Median%2C%20and%20Mode/Solution.py) |
+| 0 | [Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) | - | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/10%20days%20of%20Statistics/Day%200:%20Weighted%20Mean/Solution.py) |
+| 1 | [Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem) | - | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/10%20days%20of%20Statistics/Day%201:%20Quartiles/Solution.py) |
 
 # Java
 
