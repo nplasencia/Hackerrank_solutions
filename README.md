@@ -11,6 +11,10 @@ Trying to update it daily. If it is helpful please press a star.
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/nplasencia/Hackerrank_solutions.svg)](https://github.com/nplasencia/Hackerrank_solutions) 
 [![GitHub stars](https://img.shields.io/github/stars/nplasencia/Hackerrank_solutions.svg)](https://github.com/nplasencia/Hackerrank_solutions)
 
+* [Interview Preparation Kit](#interview-preparation-kit)
+* [Java](#java)
+* [Python](#python)
+
 # Java
 
 |          Subdomain          |                                                          Challenge                                                         |     Solution     |
@@ -47,6 +51,35 @@ Trying to update it daily. If it is helpful please press a star.
 | Object Oriented Programming | [Java Method Overriding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) | [Solution.java](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Java/Object%20Oriented%20Programming/Java%20Method%20Overriding%202%20(Super%20Keyword)%0A%0A/Solution.java) |
 | Object Oriented Programming | [Java Instanceof keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem) | [Solution.java](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Java/Object%20Oriented%20Programming/Java%20Instanceof%20keyword%0A%0A/Solution.java) |
 | Object Oriented Programming | [Java Iterator](https://www.hackerrank.com/challenges/java-iterator/problem) | [Solution.java](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Java/Object%20Oriented%20Programming/Java%20Iterator/Solution.java) |
+
+# Python
+
+|          Subdomain          |                                                          Challenge                                                         |     Solution     |
+|:---------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:----------------:|
+| Introduction | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/Introduction/Say%20%22Hello%2C%20World!%22%20With%20Python/Solution.py)|
+| Introduction | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/Introduction/Python%20If-Else/Solution.py)|
+| Introduction | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/Introduction/Aritmethic%20Operators/Solution.py)|
+| Introduction | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/Introduction/Python:%20Division/Solution.py)|
+| Introduction | [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/Introduction/Loops/Solution.py)|
+| Introduction | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/Introduction/Write%20a%20function/Solution.py)|
+| Introduction | [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/Introduction/Print%20Function/Solution.py)|
+| Basic Data Types | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/BasicDataTypes/List%20Comprehensions/Solution.py)|
+| Basic Data Types | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/BasicDataTypes/Find%20the%20Runner-Up%20Score!/Solution.py)|
+| Basic Data Types | [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/BasicDataTypes/Nested%20Lists/Solution.py)|
+| Basic Data Types | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/BasicDataTypes/Finding%20the%20percentage/Solution.py)|
+| Basic Data Types | [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/BasicDataTypes/Lists/Solution.py)|
+| Basic Data Types | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/BasicDataTypes/Tuples/Solution.py)|
+| Strings | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/Strings/sWAP%20cASE/Solution.py)|
+| Strings | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/Strings/String%20Split%20and%20Join/Solution.py)|
+| Strings | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/Strings/What's%20Your%20Name%3F/Solution.py)|
+| Strings | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/Strings/Mutations/Solution.py)|
+| Strings | [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/Strings/Find%20a%20string/Solution.py)|
+| Strings | [String Validators](https://www.hackerrank.com/challenges/string-validators/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/Strings/String%20Validators/Solution.py)|
+| Strings | [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/Strings/Text%20Alignment/Solution.py)|
+| Strings | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/Strings/Text%20Wrap/Solution.py)|
+| Strings | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/Strings/Designer%20Door%20Mat/Solution.py)|
+| Strings | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/Strings/String%20Formatting/Solution.py)|
+| Strings | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [Solution.py](https://github.com/nplasencia/Hackerrank_solutions/tree/master/Python/Strings/The%20Minion%20Game/Solution.py)|
 
 # Interview Preparation Kit
 
